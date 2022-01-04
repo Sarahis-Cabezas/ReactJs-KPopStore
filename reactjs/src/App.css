@@ -1,14 +1,15 @@
 body {
-    margin:0px;
+    margin: 0px;
     padding: 0px;
     background: rgb(71, 200, 226);
-    background: radial-gradient(circle, rgba(71, 156, 226, 1) 10%, rgba(133, 99, 228, 1) 55%, rgba(1, 22, 53, 1) 100%);
+    background: radial-gradient(circle, rgba(71, 200, 226, 1) 10%, rgba(77, 38, 185, 1) 50%, rgba(0, 0, 0, 1) 100%);
     box-sizing: border-box;
 }
-.container{
+
+.container {
     background: rgb(71, 200, 226);
-    background: radial-gradient(circle, rgba(83, 178, 255, 0.3) 10%, rgba(133, 99, 228, 0.5) 55%, rgba(1, 22, 53, 0.6) 100%);
+    background: radial-gradient(circle, rgba(59, 156, 235, 0.3) 10%, rgba(133, 99, 228, 0.5) 55%, rgba(1, 22, 53, 0.6) 100%);
     box-sizing: border-box;
     border-radius: calc(3%);
-    padding:calc(1%);
+    padding: calc(1%);
 }
