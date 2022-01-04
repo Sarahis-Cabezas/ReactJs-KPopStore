@@ -1,0 +1,45 @@
+.principal {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1cm;
+    align-items: center;
+    box-sizing: border-box;
+    max-width:100%;
+    align-items: center;
+    margin-left: calc(25%);
+    margin-right: calc(25%);
+    background-color: rgba(188, 211, 255, 0.582);
+    padding-right: 1cm;
+    margin-top: 1%;
+    margin-bottom: calc(1%);
+    border-radius: 10%;
+}
+
+.principal-producto {
+    display: flexbox;
+    position: relative;
+    align-self: center;
+    align-items: center;
+    box-sizing: border-box;
+    width: calc(100%);
+
+}
+
+.principal-producto-auxi {
+    display: flex;
+    flex-direction: column;
+    max-height: 5cm;
+}
+
+hr {
+    color: gray;
+    border-style: inset;
+    border-width: 1px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+}
+
+.space {
+    margin: 5px;
+}

@@ -1,0 +1,14 @@
+.count{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 2cm;
+    margin-bottom: 4px;
+}
+
+.count-general{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
